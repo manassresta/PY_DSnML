@@ -4,7 +4,6 @@
 # Data Capstone Project
 # Machine Learning
 # Linear Regression
-# Cross Validation and Bias Variance Trade-off
 # Logistic Regression
 # K Nearest Neighbors
 # Decision Trees and Random Forests
